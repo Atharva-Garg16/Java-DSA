@@ -2,7 +2,7 @@ package Pattern;
 
 import java.util.Scanner;
 
-public class RightTri {
+public class HollowRightTri {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
